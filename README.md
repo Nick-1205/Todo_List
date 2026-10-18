@@ -2,7 +2,8 @@
 
 Eine schlanke, benutzerfreundliche Web-Anwendung im Dark Theme zur einfachen Verwaltung von täglichen Aufgaben.
 
-Features
+
+Features:
 
 Dark Mode Design: Augenschonendes, dunkles Farbschema für angenehmes Arbeiten.
 
@@ -14,7 +15,8 @@ Löschen-Funktion: Nicht mehr benötigte To-Dos direkt über den x-Button entfer
 
 Aufteilung: Übersichtliche Trennung von aktiven und erledigten Aufgaben durch eine horizontale Trennlinie.
 
-Technologien
+
+Technologien:
 
 HTML5 – UI-Struktur (Inputs, Checkboxen, Buttons)
 
@@ -22,13 +24,15 @@ CSS3 – Styling & Dark Mode Layout
 
 JavaScript – Dynamisches Hinzufügen, Abhaken und Löschen von To-Dos
 
-Schnellstart
 
-Klone das Repository:
+Schnellstart:
+
+1. Klone das Repository:
 
 git clone https://github.com/Nick-1205/Todo_List.git
 
-Öffne die Datei index.html in einem beliebigen Browser.
+2. Öffne die Datei index.html in einem beliebigen Browser.
+   
 
 Autor
 
