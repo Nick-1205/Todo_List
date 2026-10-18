@@ -1,16 +1,35 @@
-# React + Vite
+# Minimalist Dark Mode To-Do App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Eine schlanke, benutzerfreundliche Web-Anwendung im Dark Theme zur einfachen Verwaltung von täglichen Aufgaben.
 
-Currently, two official plugins are available:
+Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Dark Mode Design: Augenschonendes, dunkles Farbschema für angenehmes Arbeiten.
 
-## React Compiler
+Aufgaben erstellen: Über die Eingabezeile (New Todo:) neue Aufgaben schnell hinzufügen.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Status verwalten: Aufgaben per Checkbox als erledigt oder offen markieren.
 
-## Expanding the ESLint configuration
+Löschen-Funktion: Nicht mehr benötigte To-Dos direkt über den x-Button entfernen.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Aufteilung: Übersichtliche Trennung von aktiven und erledigten Aufgaben durch eine horizontale Trennlinie.
+
+Technologien
+
+HTML5 – UI-Struktur (Inputs, Checkboxen, Buttons)
+
+CSS3 – Styling & Dark Mode Layout
+
+JavaScript – Dynamisches Hinzufügen, Abhaken und Löschen von To-Dos
+
+Schnellstart
+
+Klone das Repository:
+
+git clone https://github.com/Nick-1205/Todo_List.git
+
+Öffne die Datei index.html in einem beliebigen Browser.
+
+Autor
+
+Erstellt von Nick N
