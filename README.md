@@ -29,15 +29,4 @@ CSS3 – Styling & Dark Mode Layout
 JavaScript – Dynamisches Hinzufügen, Abhaken und Löschen von To-Dos
 
 
-Schnellstart:
-
-1. Klone das Repository:
-
-git clone https://github.com/Nick-1205/Todo_List.git
-
-2. Öffne die Datei index.html in einem beliebigen Browser.
-   
-
-Autor
-
 Erstellt von Nick N
